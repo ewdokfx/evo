@@ -4,7 +4,7 @@
 
 EvosHosting是一家成立于2023年的荷兰公司（VAT ID: IT01483520118），专注于提供荷兰VPS、VDS、独立服务器等服务。所有服务器默认提供DDoS防御，最高可达1.5Tbps。EvosHosting旗下的VPS主要分为Intel和AMD两个系列，支持多种配置，从1Gbps到10Gbps带宽，并且不限制流量。用户可以选择使用比特币、信用卡、PayPal、Google Pay和Apple Pay进行支付。
 
-!EvosHosting](https://github.com/user-attachments/assets/42dc8d38-0c56-43a6-853e-71e050977efd)
+![EvosHosting](https://github.com/user-attachments/assets/42dc8d38-0c56-43a6-853e-71e050977efd)
 
 ## EvosHosting 官网地址
 
